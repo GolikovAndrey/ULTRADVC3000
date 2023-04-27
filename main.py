@@ -12,6 +12,8 @@ print(train_data.shape)
 
 train_data = train_data[["Pclass", "Sex", "Age"]]
 
+train_data = train_data.Age.fillna(train_data.Age.mean())
+
 print(train_data.shape)
 print(train_data.head())
 
