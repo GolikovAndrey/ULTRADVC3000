@@ -1,6 +1,4 @@
 [core]
     remote = dvc_repo
-['remote "dvc_remote"']
-    url = gdrive://root/1j-7LPtGs-LitLoL9KhqahaWBEW05rxba
 ['remote "dvc_repo"']
-    url = gdrive://root/1j-7LPtGs-LitLoL9KhqahaWBEW05rxba
+    url = gdrive://1j-7LPtGs-LitLoL9KhqahaWBEW05rxba
